@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var count = 5
+    var count = 0//5
     
 
     override func viewDidLoad() {

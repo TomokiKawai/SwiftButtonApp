@@ -11,7 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     var count = 5
     
-    var mozi = "あいうえお"
 
     override func viewDidLoad() {
         super.viewDidLoad()
